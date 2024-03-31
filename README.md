@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with Full stack Developer
 
-- 👨‍💻 All of my projects are available at https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/](https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/(https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/)
 
 - 💬 Ask me about **Webdev,Python,Java,JDBC,C,C++**
 
