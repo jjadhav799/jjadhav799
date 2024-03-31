@@ -5,21 +5,21 @@
 <img  align= "right" alt = "coding" width = "400"  src="lsQS6q92Q.gif">
 
 
-- 🔭 I’m currently working on [Chat Application using nextJs]
+- 🔭 I’m currently working on Chat Application using nextJs
 
 - 🌱 I’m currently learning **ReactJs,NextJs.**
 
-- 👯 I’m looking to collaborate on [Data science project]
+- 👯 I’m looking to collaborate on Data science project
 
-- 🤝 I’m looking for help with [Full stack Developer]
+- 🤝 I’m looking for help with Full stack Developer
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/](https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/](https://portfolio-8r9brozdg-jayesh-jadhavs-projects.vercel.app/)
 
 - 💬 Ask me about **Webdev,Python,Java,JDBC,C,C++**
 
 - 📫 How to reach me **work.jayeshjadhav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f9ABX_biQ0oyT6OsIIUi-hyp-i_ZUnjS/view?usp=sharing](https://drive.google.com/file/d/1f9ABX_biQ0oyT6OsIIUi-hyp-i_ZUnjS/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1f9ABX_biQ0oyT6OsIIUi-hyp-i_ZUnjS/view?usp=sharing](https://drive.google.com/file/d/1f9ABX_biQ0oyT6OsIIUi-hyp-i_ZUnjS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
