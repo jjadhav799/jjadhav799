@@ -1,4 +1,4 @@
-[![MasterHead](masterhead.webp)]
+![MasterHead](masterhead.webp)
 
 <h1 align="center">Hi 👋, I'm Jayesh Abhiman Jadhav</h1>
 <h3 align="center">Passionate Data Scientist and Full Stack Developer crafting innovative solutions to drive actionable insights and seamless user experiences. Ready to revolutionize the digital landscape, one line of code at a time</h3>
