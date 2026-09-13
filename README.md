@@ -159,7 +159,7 @@ Context · Automation
 
 <div align="center">
 
-<img src="./assets/banners/aecho.svg" width="100%" alt="AECHO infrastructure intelligence">
+<img src="./assets/banners/aecho.png" width="100%" alt="AECHO infrastructure intelligence">
 
 </div>
 
