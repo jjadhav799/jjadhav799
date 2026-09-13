@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17080a"/><stop offset=".48" stop-color="#8d0b14"/><stop offset="1" stop-color="#250508"/></linearGradient>
+ <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#000" stop-opacity=".08"/><stop offset="1" stop-color="#000" stop-opacity=".78"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="10"/></filter>
+ <style>
+ .tag{font:800 16px Arial;letter-spacing:3px;fill:#ffccd0}
+ .title{font:900 54px Arial;fill:#fff;letter-spacing:-2px}
+ .sub{font:700 18px Arial;fill:#f1b8bc;letter-spacing:3px}
+ .icon{font:900 90px Arial;fill:#fff}
+ </style>
+</defs>
+<rect width="500" height="700" rx="10" fill="url(#bg)"/>
+<circle cx="90" cy="90" r="100" fill="#e50914" opacity=".28" filter="url(#glow)"/>
+<path d="M0 100 L500 330 M80 0 L500 210 M260 0 L500 120" stroke="#ff3440" stroke-width="2" opacity=".25"/>
+<rect width="500" height="700" fill="url(#shade)"/>
+<rect x="26" y="26" width="448" height="648" rx="7" fill="none" stroke="#ff5a62" stroke-opacity=".45"/>
+<text x="42" y="70" class="tag">CRITICAL</text>
+<text x="42" y="220" class="icon">◉</text>
+<text x="42" y="520" class="title">SIGNAL</text>
+<text x="42" y="555" class="sub">OBSERVABILITY</text>
+<text x="42" y="630" font="700 13px Arial" fill="#aaa">JAYFLIX ENGINEERING COLLECTION</text>
+</svg>

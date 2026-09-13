@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21070a"/><stop offset=".45" stop-color="#b20710"/><stop offset=".72" stop-color="#4b070b"/><stop offset="1" stop-color="#160609"/></linearGradient>
+ <radialGradient id="r"><stop stop-color="#ff2634" stop-opacity=".55"/><stop offset="1" stop-color="#ff2634" stop-opacity="0"/></radialGradient>
+ <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#070707" stop-opacity=".82"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="50"/></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+ <style>
+ .brand{font:900 38px Arial;letter-spacing:8px;fill:#fff}
+ .micro{font:800 16px Arial;letter-spacing:5px;fill:#ffc5c8}
+ .title{font:900 92px Arial;letter-spacing:-5px;fill:#fff}
+ .sub{font:800 23px Arial;letter-spacing:5px;fill:#fff}
+ .body{font:500 21px Arial;fill:#f2dfe0}
+ .btn{font:900 18px Arial;fill:#fff}
+ </style>
+</defs>
+<rect width="1600" height="720" fill="url(#bg)"/>
+<circle cx="1260" cy="210" r="430" fill="url(#r)" filter="url(#blur)"/>
+<g opacity=".18" stroke="#ffb2b7" fill="none">
+ <path d="M850 720L1430 0M980 720L1560 0M1110 720L1690 0" stroke-width="2"/>
+ <path d="M830 580H1600M870 470H1600M910 360H1600M950 250H1600" stroke-width="1"/>
+</g>
+<g transform="translate(100,80)">
+ <text class="brand">JAYFLIX</text>
+ <text y="55" class="micro">AN ENGINEERING ORIGINAL</text>
+ <text y="175" class="title">JAYESH</text>
+ <text y="265" class="title">JADHAV</text>
+ <text y="315" class="sub">DEVOPS ENGINEER · SYSTEM BUILDER</text>
+ <text y="365" class="body">Cloud  ·  Kubernetes  ·  Automation  ·  Software  ·  AI</text>
+ <g transform="translate(0,410)">
+   <rect width="142" height="52" rx="6" fill="#fff"/><text x="30" y="34" class="btn" fill="#111">▶ PLAY</text>
+   <rect x="160" width="174" height="52" rx="6" fill="#3b1719" stroke="#f6b7ba"/><text x="184" y="34" class="btn">＋ MY LIST</text>
+ </g>
+</g>
+<g transform="translate(1160,80)">
+ <circle cx="170" cy="170" r="168" fill="#250608" stroke="#ffb1b5" stroke-width="2" opacity=".85"/>
+ <circle cx="170" cy="170" r="132" fill="#e50914" opacity=".22"/>
+ <path d="M90 90L128 250L170 90L212 250L250 90" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="170" cy="170" r="192" fill="none" stroke="#ff3844" stroke-width="2" opacity=".65"/>
+ <text x="170" y="425" text-anchor="middle" class="micro">NOW STREAMING</text>
+ <text x="170" y="456" text-anchor="middle" class="brand" font-size="24">ENGINEERING</text>
+</g>
+<rect y="0" width="1600" height="720" fill="url(#fade)"/>
+</svg>

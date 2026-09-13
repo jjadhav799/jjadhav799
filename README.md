@@ -1,59 +1,95 @@
 <div align="center">
 
-<img src="./assets/jayflix-hero.svg" width="100%" alt="JAYFLIX — Jayesh Jadhav engineering profile">
-
-<br>
-
-[![DevOps](https://img.shields.io/badge/DEVOPS-ENGINEERING-E50914?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![Cloud](https://img.shields.io/badge/CLOUD-ARCHITECTURE-B20710?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/AI-ENGINEERING-E50914?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Software](https://img.shields.io/badge/SOFTWARE-ENGINEERING-7A0710?style=for-the-badge&logo=python&logoColor=white)](#)
+<img src="./assets/banners/hero.svg" width="100%" alt="JAYFLIX — Jayesh Jadhav engineering profile">
 
 </div>
-
----
-
-# 🎬 JAYFLIX
-
-> **A cinematic engineering profile by Jayesh Jadhav.**
-
-**DevOps Engineer • Cloud • Kubernetes • Automation • Software • AI**
 
 <div align="center">
 
-### 🍿 WHO'S WATCHING?
-
-| 👨‍💻 **ENGINEER** | 🧑‍💼 **RECRUITER** | 🤖 **AI SYSTEM** |
-|:---:|:---:|:---:|
-| Cloud · K8s · CI/CD | Experience · Skills | AECHO · Architecture |
-| [Explore](#-continue-watching) | [Explore](#-top-picks-for-you) | [Explore](#-jayflix-original--aecho) |
+[![DEVOPS](https://img.shields.io/badge/DEVOPS-ENGINEERING-E50914?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![CLOUD](https://img.shields.io/badge/CLOUD-ARCHITECTURE-B20710?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![KUBERNETES](https://img.shields.io/badge/KUBERNETES-PLATFORM-E50914?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-ENGINEERING-E50914?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 </div>
 
 ---
 
-## ▶️ CONTINUE WATCHING
+# 🍿 WHO'S WATCHING?
 
-### 🎞️ DEVOPS ENGINEERING
-**Season 01 · Episode 01 · 4K**
+<table>
+<tr>
+<td align="center" width="33%">
 
-Building and operating delivery systems across cloud, Kubernetes, CI/CD, infrastructure, observability and automation.
+## 👨‍💻 ENGINEER
 
-`██████████████████░░  92%`
+Cloud · K8s · CI/CD  
+Automation · Software
 
-### 🎞️ SOFTWARE ENGINEERING
-**Season 01 · Episode 02 · 4K**
+**[▶ Explore](#-continue-watching)**
 
-Python · Java · APIs · Linux · Git · scripting · developer tooling.
+</td>
+<td align="center" width="33%">
 
-`███████████████░░░░░  84%`
+## 🧑‍💼 RECRUITER
 
-### 🎞️ AI ENGINEERING
-**NEW · Season 01 · Episode 03 · 4K**
+Engineering · Skills  
+Systems · Projects
 
-LLMs · RAG · AI agents · AI-assisted DevOps · infrastructure intelligence.
+**[▶ Explore](#-top-picks-for-you)**
 
-`████████████░░░░░░░░  71%`
+</td>
+<td align="center" width="33%">
+
+## 🤖 AI SYSTEM
+
+AECHO · Architecture  
+Context · Automation
+
+**[▶ Explore](#-jayflix-original--aecho)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="./assets/banners/section.svg" width="100%" alt="Browse engineering universe">
+
+</div>
+
+# ▶️ CONTINUE WATCHING
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="./assets/posters/devops.svg" width="100%" alt="DevOps poster">
+
+**Season 01 · Episode 01**  
+`██████████████████░░ 92%`
+
+</td>
+<td width="33%" align="center">
+
+<img src="./assets/posters/kubernetes.svg" width="100%" alt="Kubernetes poster">
+
+**Season 01 · Episode 02**  
+`████████████████░░░░ 84%`
+
+</td>
+<td width="33%" align="center">
+
+<img src="./assets/posters/cloud.svg" width="100%" alt="Cloud poster">
+
+**Season 01 · Episode 03**  
+`█████████████████░░░ 88%`
+
+</td>
+</tr>
+</table>
+
+> **DevOps engineering:** building and operating delivery systems across cloud, Kubernetes, CI/CD, infrastructure, observability and automation.
 
 ---
 
@@ -61,64 +97,61 @@ LLMs · RAG · AI agents · AI-assisted DevOps · infrastructure intelligence.
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### ☁️ CLOUD
-
-**2026 · Infrastructure · 4K**
-
-AWS · Azure · networking · compute · security · architecture
-
-</td>
-<td width="33%" valign="top">
-
-### ☸️ KUBERNETES
-
-**2026 · Platform · 4K**
-
-Docker · workloads · services · Helm · scaling · operations
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ AUTOMATION
-
-**2026 · DevOps · 4K**
-
-CI/CD · IaC · Python · Bash · deployment automation
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🔭 OBSERVABILITY
-
-**2026 · Engineering · 4K**
-
-Metrics · logs · traces · alerts · troubleshooting
-
-</td>
-<td valign="top">
-
-### 💻 SOFTWARE
-
-**2026 · Software · 4K**
-
-Python · Java · APIs · Linux · Git · tooling
-
-</td>
-<td valign="top">
-
-### 🤖 AI
-
-**NEW · AI · 4K**
-
-LLMs · RAG · agents · AI automation · context systems
-
-</td>
+<td width="25%" align="center"><img src="./assets/posters/automation.svg" width="100%" alt="Automation"><br><b>⚡ AUTOMATION</b></td>
+<td width="25%" align="center"><img src="./assets/posters/observability.svg" width="100%" alt="Observability"><br><b>🔭 OBSERVABILITY</b></td>
+<td width="25%" align="center"><img src="./assets/posters/software.svg" width="100%" alt="Software"><br><b>💻 SOFTWARE</b></td>
+<td width="25%" align="center"><img src="./assets/posters/ai.svg" width="100%" alt="AI"><br><b>🤖 AI CORE</b></td>
 </tr>
 </table>
+
+### 🎯 ENGINEERING STACK
+
+**☁️ Cloud** — AWS · Azure · Networking · Compute · Security · Architecture
+
+**☸️ Platform** — Kubernetes · Docker · Helm · Workloads · Services · Scaling
+
+**⚙️ Delivery** — Git · GitHub Actions · Jenkins · GitLab CI/CD · Harness
+
+**🏗️ Infrastructure** — Terraform · Ansible · Linux · Infrastructure as Code
+
+**🔭 Observability** — Prometheus · Grafana · Logs · Metrics · Traces · Alerts
+
+**💻 Software** — Python · Java · Node.js · APIs · Bash · Git
+
+**🗄️ Data / Messaging** — PostgreSQL · MongoDB · Redis · RabbitMQ
+
+---
+
+# 🧠 AI CORE
+
+```text
+                         ┌──────────────────────┐
+                         │       🧠 AI CORE     │
+                         │                      │
+                         │   CONTEXT            │
+                         │   REASON              │
+                         │   PLAN                │
+                         │   EXECUTE             │
+                         └──────────┬───────────┘
+                                    │
+                  ┌─────────────────┼─────────────────┐
+                  ▼                 ▼                 ▼
+                LLMs               RAG             AGENTS
+                  │                 │                 │
+                  └─────────────────┼─────────────────┘
+                                    ▼
+                           TOOL / API EXECUTION
+                                    │
+                     ┌──────────────┼──────────────┐
+                     ▼              ▼              ▼
+                   ☁️ CLOUD        ☸️ K8S          🐙 GIT
+                     │              │              │
+                     └──────────────┼──────────────┘
+                                    ▼
+                           DEVOPS AUTOMATION
+```
+
+**Exploring:** `LLMs` · `RAG` · `AI Agents` · `AI-assisted DevOps` · `Infrastructure Intelligence`
 
 ---
 
@@ -126,44 +159,15 @@ LLMs · RAG · agents · AI automation · context systems
 
 <div align="center">
 
-<img src="./assets/aecho-poster.svg" width="82%" alt="AECHO — Infrastructure Intelligence">
-
-### **AECHO**
-
-**2026 · AI · Infrastructure · Experimental · 4K**
-
-> **What if infrastructure could explain itself?**
+<img src="./assets/banners/aecho.svg" width="100%" alt="AECHO infrastructure intelligence">
 
 </div>
 
-AECHO is my evolving engineering project exploring how AI can understand complex software and infrastructure environments as a connected system.
+### 🎬 THE QUESTION
 
-```text
-                         ┌─────────────────────┐
-                         │        AECHO        │
-                         │ INFRASTRUCTURE INTEL │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ▼                     ▼                     ▼
-            ☁️ CLOUD              ☸️ K8S                🏗️ IaC
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ▼
-                           🔭 OBSERVABILITY
-                                    │
-                                    ▼
-                             🕸️ SYSTEM GRAPH
-                                    │
-                                    ▼
-                               🧠 AI CORE
-                                    │
-                          ┌─────────┴─────────┐
-                          ▼                   ▼
-                       💡 INSIGHT          ⚡ ACTION
-```
+> **Can AI understand an engineering environment as a connected system?**
 
-### 🎬 THE STORY
+AECHO is an evolving engineering R&D project exploring infrastructure intelligence.
 
 ```text
 OBSERVE
@@ -179,29 +183,43 @@ RECOMMEND
 AUTOMATE
 ```
 
-AECHO is deliberately presented here as an **engineering R&D project**, not a founder/company identity.
+### 🧩 THE SYSTEM
+
+```text
+CLOUD ───────┐
+KUBERNETES ──┼──► OBSERVABILITY ──► SYSTEM GRAPH ──► AI CORE
+IaC ─────────┘                                      │
+                                                    ├──► INSIGHT
+                                                    └──► ACTION
+```
+
+**AECHO is presented as an engineering project — not a founder/company identity.**
 
 ---
 
-# 🧠 NEW & HOT
+# 📡 SYSTEM TELEMETRY
 
 <div align="center">
 
-| 🔥 | TITLE | STATUS |
-|---|---|---|
-| 🤖 | AI Agents | `EXPLORING` |
-| 🧠 | LLM Engineering | `EXPLORING` |
-| 🔎 | RAG | `BUILDING` |
-| ⚙️ | AI × DevOps | `BUILDING` |
-| 🕸️ | Infrastructure Intelligence | `AECHO` |
+<img src="./assets/banners/telemetry.svg" width="100%" alt="JAYFLIX engineering activity telemetry">
 
 </div>
+
+> This is a **visual JAYFLIX telemetry panel**, not a replacement for GitHub's native contribution history.
 
 ---
 
 # 🎭 BROWSE BY GENRE
 
-`☁️ Cloud` · `☸️ Kubernetes` · `⚙️ DevOps` · `🤖 AI` · `💻 Software` · `🔭 Observability` · `🏗️ Architecture` · `🧪 Experiments` · `📦 Automation`
+| Genre | What you'll find |
+|---|---|
+| ☁️ **Cloud** | Architecture, compute, networking, reliability |
+| ☸️ **Kubernetes** | Containers, workloads, platform engineering |
+| ⚙️ **DevOps** | CI/CD, IaC, deployment automation |
+| 🔭 **Observability** | Metrics, logs, traces, incident response |
+| 💻 **Software** | Python, Java, APIs, Linux, tooling |
+| 🤖 **AI** | LLMs, RAG, agents, AI automation |
+| 🧪 **Experiments** | Labs, prototypes, architecture explorations |
 
 ---
 
@@ -218,7 +236,7 @@ AECHO is deliberately presented here as an **engineering R&D project**, not a fo
 ⭐ AECHO
 ```
 
-The repositories behind this profile are my engineering laboratory:
+The engineering loop:
 
 ```text
 IDEA → EXPERIMENT → PROTOTYPE → BREAK → DEBUG → REFACTOR → SHIP → OBSERVE
@@ -226,91 +244,38 @@ IDEA → EXPERIMENT → PROTOTYPE → BREAK → DEBUG → REFACTOR → SHIP → 
 
 ---
 
-# 📡 SYSTEM TELEMETRY
-
-<div align="center">
-
-<img src="./assets/system-telemetry.svg" width="94%" alt="JDX system telemetry">
-
-</div>
-
----
-
-# 🍿 TRENDING NOW
-
-### #01 ☸️ Kubernetes
-Containerized workloads, deployment patterns, services, scaling and platform operations.
-
-### #02 🤖 AI × DevOps
-Using AI where it can remove repetitive engineering work and increase system context.
-
-### #03 ☁️ Cloud
-Designing systems around reliability, automation, security and operational visibility.
-
-### #04 🔭 Observability
-Metrics + logs + traces → signal → diagnosis → prevention.
-
-### #05 🧪 AECHO
-Exploring infrastructure intelligence as an engineering problem.
-
----
-
-# 🎬 BEHIND THE SYSTEM
-
-I'm **Jayesh Jadhav**, a **DevOps Engineer** interested in the intersection of software, infrastructure and automation.
-
-I don't see DevOps as a list of tools.
+# 🚨 INCIDENT MODE
 
 ```text
-TOOLS CHANGE.
-ENGINEERING PROBLEMS DON'T.
-
-DELIVERY
-RELIABILITY
-SCALE
-OBSERVABILITY
-AUTOMATION
-FEEDBACK
-```
-
-The question I keep coming back to:
-
-> **How can we build systems that require less repetitive human intervention while becoming easier to understand and operate?**
-
----
-
-# 📺 INCIDENT MODE
-
-```text
-                  🚨 PRODUCTION ALERT
-                           │
-                           ▼
-                      🔭 OBSERVE
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-            📜 LOGS      📊 METRICS    📨 EVENTS
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                       🔗 CORRELATE
-                           │
-                           ▼
-                       🧩 ROOT CAUSE
-                           │
-                           ▼
-                         🔧 FIX
-                           │
-                           ▼
-                       ⚙️ AUTOMATE
-                           │
-                           ▼
-                      🛡️ PREVENT
+                    🚨 ALERT
+                       │
+                       ▼
+                    🔭 SIGNAL
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+        📜 LOGS      📊 METRICS    📨 EVENTS
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                    🔗 CORRELATE
+                       │
+                       ▼
+                    🧩 ROOT CAUSE
+                       │
+                       ▼
+                      🔧 FIX
+                       │
+                       ▼
+                   ⚙️ AUTOMATE
+                       │
+                       ▼
+                    🛡️ PREVENT
 ```
 
 A good incident response fixes the problem.
 
-A better one makes the next occurrence less likely.
+A better one reduces the probability of the next occurrence.
 
 ---
 
@@ -318,61 +283,44 @@ A better one makes the next occurrence less likely.
 
 <div align="center">
 
+<img src="./assets/posters/ai.svg" width="220" alt="Creator special">
+
 ### 📱 `@jaymarathicareer`
 
 **Career · Technology · Opportunities**
 
-🎬 **A separate creator channel by Jayesh**
+A separate creator channel by Jayesh.
 
 </div>
 
-My professional identity is **DevOps Engineer**.
-
-My creator side shares career and technology content through **JayMarathi Career**.
+My professional identity here is **DevOps Engineer**.  
+My creator side lives at **JayMarathi Career**.
 
 ---
 
 # 📊 GITHUB ACTIVITY
 
-> Replace `jjadhav799` below with your actual GitHub username.
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjadhav799&show_icons=true&hide_border=true&theme=dark&bg_color=0B0B0B&title_color=E50914&icon_color=E50914&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjadhav799&hide_border=true&background=0B0B0B&ring=E50914&fire=E50914&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jjadhav799&show_icons=true&hide_border=true&theme=dark&bg_color=141414&title_color=E50914&icon_color=E50914&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjadhav799&hide_border=true&background=141414&ring=E50914&fire=E50914&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" width="48%" />
 
 </div>
 
 ---
 
-# 🎞️ FINAL EPISODE
+# 🎬 FINAL EPISODE
 
 <div align="center">
 
-<img src="./assets/final-credits.svg" width="92%" alt="JAYFLIX final credits">
+<img src="./assets/banners/final.svg" width="100%" alt="JAYFLIX final credits">
 
-### `JAYESH JADHAV`
-
-**DEVOPS ENGINEER · SYSTEM BUILDER**
-
-☁️ Cloud × ☸️ Kubernetes × ⚙️ Automation × 🤖 AI
-
-### NEXT UP
-
-## `AECHO — S01E01`
-
-**"THE SYSTEM UNDERSTANDS"**
-
-[▶️ GitHub](https://github.com/) · [💼 LinkedIn](https://www.linkedin.com/) · [📱 @jaymarathicareer](https://www.instagram.com/jaymarathicareer/)
+**[💻 GitHub](https://github.com/jjadhav799)** · **[📱 @jaymarathicareer](https://www.instagram.com/jaymarathicareer/)**
 
 </div>
-
----
 
 <details>
 <summary>🍿 <b>Post-credit scene</b></summary>
-
-<br>
 
 ```text
 jayesh@jayflix:~$ systemctl status curiosity
@@ -388,8 +336,6 @@ AECHO
 ```
 
 </details>
-
----
 
 <div align="center">
 

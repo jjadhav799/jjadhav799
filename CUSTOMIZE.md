@@ -1,12 +1,29 @@
 # JAYFLIX customization
 
-1. Replace `YOUR_GITHUB_USERNAME` in `README.md`.
-2. Replace the LinkedIn placeholder with your real LinkedIn URL.
-3. Add your portfolio URL.
-4. Add repository links to the `MY LIST` section.
-5. Keep AECHO positioned as an engineering R&D project.
-6. The supplied visuals are original SVG artwork, not Netflix proprietary artwork.
+This version is intentionally designed as a single visual system rather than a collection of unrelated README widgets.
 
-## Important GitHub limitation
+## Included
 
-GitHub renders profile READMEs as Markdown/HTML content, but it does not provide the JavaScript runtime needed for a real Netflix SPA. The visual experience therefore uses self-contained SVG artwork, Markdown tables, links and GitHub-compatible images rather than JavaScript interactions.
+- Original cinematic JAYFLIX hero
+- Original engineering poster artwork
+- AECHO original poster/banner
+- Green activity telemetry wall
+- Consistent red/charcoal palette
+- Netflix-style content rows and metadata
+- GitHub activity widgets
+- Creator separation for @jaymarathicareer
+
+## Theme
+
+Primary red: `#E50914` / `#B20710`
+Dark surface: `#141414`
+Highlight: `#39FF88`
+Text: `#FFFFFF`
+
+The dark surface is used consistently inside the custom artwork to avoid random black gaps. GitHub itself controls the page background outside README-rendered content.
+
+## Important
+
+The custom artwork is original vector artwork. It does not use Netflix logos, screenshots, copyrighted posters, or proprietary Netflix assets.
+
+The visual telemetry is explicitly labelled as visual and does not claim to represent GitHub contribution data.

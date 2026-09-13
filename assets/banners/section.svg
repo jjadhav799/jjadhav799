@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 180">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#42070c"/><stop offset=".5" stop-color="#e50914"/><stop offset="1" stop-color="#42070c"/></linearGradient>
+<style>.h{font:900 30px Arial;fill:#fff;letter-spacing:6px}.s{font:700 12px Arial;fill:#ffd6d8;letter-spacing:3px}</style></defs>
+<rect width="1400" height="180" fill="url(#g)"/><rect x="42" y="35" width="1316" height="110" rx="12" fill="#25070a" fill-opacity=".45" stroke="#ff9298" stroke-opacity=".35"/>
+<text x="70" y="90" class="h">BROWSE THE ENGINEERING UNIVERSE</text><text x="70" y="120" class="s">CLOUD · PLATFORM · AUTOMATION · OBSERVABILITY · SOFTWARE · AI</text>
+</svg>

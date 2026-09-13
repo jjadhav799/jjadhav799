@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#31070b"/><stop offset=".5" stop-color="#b20710"/><stop offset="1" stop-color="#230508"/></linearGradient>
+<filter id="gl"><feGaussianBlur stdDeviation="20"/></filter>
+<style>.h{font:900 78px Arial;fill:#fff;letter-spacing:13px}.s{font:800 18px Arial;fill:#ffd0d3;letter-spacing:5px}.t{font:700 17px Arial;fill:#fff}.n{fill:#3b0a0f;stroke:#ff8c93;stroke-width:2}.l{stroke:#ffd0d3;stroke-width:2;stroke-dasharray:9 9;animation:d 3s linear infinite}@keyframes d{to{stroke-dashoffset:-90}}</style></defs>
+<rect width="1400" height="520" fill="url(#bg)"/><circle cx="700" cy="270" r="250" fill="#ff2431" opacity=".16" filter="url(#gl)"/>
+<text x="70" y="75" class="s">JAYFLIX ORIGINAL</text><text x="70" y="155" class="h">AECHO</text><text x="70" y="190" class="s">INFRASTRUCTURE INTELLIGENCE</text>
+<g class="l" fill="none"><path d="M260 300H545M855 300H1140M700 190V260M700 340V440"/></g>
+<g><rect x="100" y="255" width="160" height="90" rx="12" class="n"/><text x="140" y="292" class="t">☁ CLOUD</text><text x="132" y="320" class="t">SIGNALS</text>
+<rect x="545" y="245" width="310" height="110" rx="16" class="n"/><text x="622" y="290" class="t">🧠 AI CORE</text><text x="586" y="320" class="t">CONTEXT → REASON → ACTION</text>
+<rect x="1140" y="255" width="160" height="90" rx="12" class="n"/><text x="1173" y="292" class="t">⚡ ACTION</text><text x="1162" y="320" class="t">AUTOMATION</text>
+<rect x="610" y="115" width="180" height="75" rx="12" class="n"/><text x="645" y="150" class="t">☸ K8S</text><text x="642" y="173" class="t">WORKLOADS</text>
+<rect x="610" y="440" width="180" height="55" rx="12" class="n"/><text x="646" y="474" class="t">🔭 OBSERVE</text></g>
+<text x="70" y="460" class="s">WHAT IF INFRASTRUCTURE COULD EXPLAIN ITSELF?</text>
+</svg>
