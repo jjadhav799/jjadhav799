@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b0b0b"/><stop offset="1" stop-color="#210407"/></linearGradient>
+ <style>
+ .h{font:800 20px Arial;fill:#fff;letter-spacing:3px}.v{font:900 32px Arial;fill:#e50914}.b{fill:#252525}.f{fill:#e50914}
+ .p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.55}}
+ </style>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#g)" stroke="#3a0a0d"/>
+<text x="50" y="58" class="h">SYSTEM TELEMETRY // JDX-OS</text>
+<g transform="translate(50,95)">
+ <text class="h">CLOUD</text><text x="250" class="v">98%</text><rect y="45" width="300" height="12" rx="6" class="b"/><rect y="45" width="294" height="12" rx="6" class="f p"/>
+ <text x="430" class="h">KUBERNETES</text><text x="680" class="v">94%</text><rect x="430" y="45" width="300" height="12" rx="6" class="b"/><rect x="430" y="45" width="282" height="12" rx="6" class="f p"/>
+ <text x="860" class="h">AI CORE</text><text x="1080" class="v">71%</text><rect x="860" y="45" width="260" height="12" rx="6" class="b"/><rect x="860" y="45" width="185" height="12" rx="6" class="f p"/>
+</g>
+<g transform="translate(50,205)">
+ <text class="h">AUTOMATION</text><text x="250" class="v">97%</text><rect y="45" width="300" height="12" rx="6" class="b"/><rect y="45" width="291" height="12" rx="6" class="f p"/>
+ <text x="430" class="h">OBSERVABILITY</text><text x="680" class="v">91%</text><rect x="430" y="45" width="300" height="12" rx="6" class="b"/><rect x="430" y="45" width="273" height="12" rx="6" class="f p"/>
+ <text x="860" class="h">SOFTWARE</text><text x="1080" class="v">84%</text><rect x="860" y="45" width="260" height="12" rx="6" class="b"/><rect x="860" y="45" width="218" height="12" rx="6" class="f p"/>
+</g>
+<text x="50" y="330" font="600 15px Arial" fill="#777">* Visual telemetry represents engineering focus, not measured proficiency.</text>
+</svg>

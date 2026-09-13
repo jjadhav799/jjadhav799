@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#050505"/><stop offset=".5" stop-color="#1a0306"/><stop offset="1" stop-color="#050505"/></linearGradient>
+<style>.a{font:900 52px Arial;fill:#fff;letter-spacing:8px}.b{font:700 18px Arial;fill:#e50914;letter-spacing:4px}.c{font:500 19px Arial;fill:#bbb}.line{stroke:#e50914;stroke-width:2}</style></defs>
+<rect width="1200" height="430" fill="url(#g)"/>
+<line x1="90" y1="70" x2="1110" y2="70" class="line"/>
+<text x="600" y="145" text-anchor="middle" class="b">JAYFLIX ENGINEERING</text>
+<text x="600" y="220" text-anchor="middle" class="a">JAYESH JADHAV</text>
+<text x="600" y="265" text-anchor="middle" class="c">DEVOPS ENGINEER · SYSTEM BUILDER</text>
+<text x="600" y="305" text-anchor="middle" class="c">CLOUD × KUBERNETES × AUTOMATION × AI</text>
+<text x="600" y="355" text-anchor="middle" class="b">NEXT UP: AECHO — S01E01</text>
+<text x="600" y="390" text-anchor="middle" class="c">“THE SYSTEM UNDERSTANDS”</text>
+<line x1="90" y1="405" x2="1110" y2="405" class="line"/>
+</svg>
