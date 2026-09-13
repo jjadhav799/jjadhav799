@@ -197,17 +197,6 @@ IaC ─────────┘                                      │
 
 ---
 
-# 📡 SYSTEM TELEMETRY
-
-<div align="center">
-
-<img src="./assets/banners/telemetry.svg" width="100%" alt="JAYFLIX engineering activity telemetry">
-
-</div>
-
-> This is a **visual JAYFLIX telemetry panel**, not a replacement for GitHub's native contribution history.
-
----
 
 # 🎭 BROWSE BY GENRE
 
