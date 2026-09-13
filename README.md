@@ -99,8 +99,8 @@ Context · Automation
 <tr>
 <td width="25%" align="center"><img src="./assets/posters/automation.svg" width="100%" alt="Automation"><br><b>⚡ AUTOMATION</b></td>
 <td width="25%" align="center"><img src="./assets/posters/observability.svg" width="100%" alt="Observability"><br><b>🔭 OBSERVABILITY</b></td>
-<td width="25%" align="center"><img src="./assets/posters/software.svg" width="100%" alt="Software"><br><b>💻 SOFTWARE</b></td>
-<td width="25%" align="center"><img src="./assets/posters/ai.svg" width="100%" alt="AI"><br><b>🤖 AI CORE</b></td>
+<td width="25%" align="center"><img src="./assets/posters/software.png" width="100%" alt="Software"><br><b>💻 SOFTWARE</b></td>
+<td width="25%" align="center"><img src="./assets/posters/ai.png" width="100%" alt="AI"><br><b>🤖 AI CORE</b></td>
 </tr>
 </table>
 
